@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/wesley-reis/1cd5522bf7d21c3c0822b3ff1f2eddd3/raw/210d5fabc6de28242403a5f03ce248d448eac41b/cardwrr.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/wesley-reis/1cd5522bf7d21c3c0822b3ff1f2eddd3/raw/378eb1df8c8aca632b617b138083d5a87c4cdcf3/Mobile.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wesley Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-reis&color=blue" alt="Profile views" /> </p>
 
