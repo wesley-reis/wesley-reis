@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/wesley-reis/a1bad5ccbc047911815909e94044d747/raw/258dc546e709a86934065b582665609b531f128a/githubCardWrrDev.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wesley Reis</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-reis&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-reis&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Web Developer 
 
