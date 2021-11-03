@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/wesley-reis/a1bad5ccbc047911815909e94044d747/raw/6a267defbdf8c2ff939a81c1516e15ec05e16298/githubCardWrrDev.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/wesley-reis/1cd5522bf7d21c3c0822b3ff1f2eddd3/raw/88058c260cb496dc3f1cf03796a2944fed61912a/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wesley Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-reis&color=blue" alt="Profile views" /> </p>
 
@@ -9,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [wrrdev.com](https://wrrdev.com)
 
 - 💬 Ask me about **HTML, CSS, SQL, PHP**
-
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
