@@ -26,6 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MysQl](https://img.shields.io/badge/-MysQl-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![SQLite](https://img.shields.io/badge/-JAVA-E01E23?style=flat&logo=java)&nbsp;
 
 <br><br>
 
