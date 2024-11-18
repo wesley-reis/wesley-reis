@@ -4,7 +4,7 @@
 
 - 🔥 Web Developer 
 
-- 🔭 I’m currently working at [FREELANCER](https://github.com/wesley-reis)
+- 🔭 I’m currently working at [GRUPO FLEURY](https://github.com/wesley-reis)
 
 - 👨‍💻 All of my projects are available at [wrrdev.com](https://wrrdev.com)
 
